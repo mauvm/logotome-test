@@ -2,3 +2,4 @@ File to change and create PRs for.
 
 Addition #1.
 Addition #2 (don't forget to NOT commit directly).
+Addition #3.
